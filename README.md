@@ -1,0 +1,2 @@
+# sno
+Single node OpenShift
